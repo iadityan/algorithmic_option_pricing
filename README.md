@@ -78,9 +78,11 @@ system — using the same mathematics used in heat equations and signal processi
 
 ## Repository Structure
 
+```
 algorithmic-option-pricing/
 │
 ├── README.md
+│
 ├── notes/
 │   ├── probalblity.pdf
 │   ├── Stochastic_Calculus.pdf
@@ -91,3 +93,4 @@ algorithmic-option-pricing/
 │
 └── code/
     └── (coming soon — FFT option pricing engine)
+```
