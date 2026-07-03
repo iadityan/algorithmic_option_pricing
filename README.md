@@ -77,3 +77,17 @@ system — using the same mathematics used in heat equations and signal processi
 ---
 
 ## Repository Structure
+
+algorithmic-option-pricing/
+│
+├── README.md
+├── notes/
+│   ├── probalblity.pdf
+│   ├── Stochastic_Calculus.pdf
+│   └── Black_scholes_model.pdf
+│
+├── assignments/
+│   └── Assignment_1.pdf
+│
+└── code/
+    └── (coming soon — FFT option pricing engine)
