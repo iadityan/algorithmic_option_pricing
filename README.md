@@ -1,13 +1,13 @@
 # algorithmic_option_pricing
-European Call Option pricing engine using Black-Scholes-Merton and FFT | Stochastic Calculus | Quantitative Finance | IIT Kanpur
+European Call Option pricing engine using Black-Scholes-Merton and FFT | Stochastic Calculus | Quantitative Finance
 
 
 
 # Algorithmic Option Pricing: Bridging Stochastic Calculus and Fourier Transforms
 
-**Organization:** Stamatics Society, IIT Kanpur  
+**Organization:** Self Project  
 **Duration:** May 2026 – Present (10 Weeks)  
-**Mentors:** Utkarsh Sawarn, Aryan Singh, Harsh Vardhan
+
 
 ---
 
